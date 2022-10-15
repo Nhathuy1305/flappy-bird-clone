@@ -1,0 +1,38 @@
+{
+    "name": "flappy-bird-clone",
+    "version": "1.0.0",
+    "description": "HUY's Flappy Bird Clone",
+    "main": "sketch.js",
+    "scripts": {
+      "lint": "eslint *.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": "git+https://github.com/Nhathuy1305/flappy-bird-clone.git"
+    },
+    "keywords": [
+      "flappy-bird",
+      "game",
+      "clone",
+      "javascript"
+    ],
+    "author": "Dang Nhat Huy",
+    "license": "MIT",
+    "bugs": {
+      "url": "https://github.com/Nhathuy1305/flappy-bird-clone/issues"
+    },
+    "homepage": "https://github.com/Nhathuy1305/flappy-bird-clone",
+    "devDependencies": {
+      "eslint": "^4.18.2",
+      "eslint-config-p5js": "^1.0.1",
+      "eslint-config-standard": "^11.0.0",
+      "eslint-plugin-import": "^2.9.0",
+      "eslint-plugin-node": "^6.0.1",
+      "eslint-plugin-promise": "^3.7.0",
+      "eslint-plugin-standard": "^3.0.1"
+    },
+    "eslintIgnore": [
+      "libraries/*"
+    ]
+  }
+  
